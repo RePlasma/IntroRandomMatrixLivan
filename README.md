@@ -7,3 +7,5 @@ ArXiv version: https://arxiv.org/abs/1712.07903
 Springer version: https://link.springer.com/book/10.1007/978-3-319-70885-0 The textbook is accompanied by a set of Matlab scripts.
 
 The current repository contains Mathematica notebooks I have produced, which in part are adaptations of the original Matlab scripts, but also include other calculations.
+
+External Python package for Random Matrices: https://github.com/AlejandroSantorum/scikit-rmt
